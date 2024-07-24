@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A sleek fullstack CRUD app for managing your book collection. Built with Spring Boot for a robust backend and React for a seamless frontend, it allows easy creation, viewing, updating, and deletion of books. Perfect for developers and avid readers alike.
+AThis is a demo Spring Boot application designed to manage books with basic CRUD (Create, Read, Update, Delete) operations. It uses PostgreSQL as the database and leverages various Spring Boot modules for a streamlined development experience.
 
 ## Technologies Used
 
