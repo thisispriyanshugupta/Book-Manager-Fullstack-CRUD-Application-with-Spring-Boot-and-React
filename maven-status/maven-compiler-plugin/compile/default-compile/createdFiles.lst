@@ -1,0 +1,6 @@
+com\demo\crud\backend\BackendApplication.class
+com\demo\crud\backend\model\Book.class
+com\demo\crud\backend\config\WebConfig.class
+com\demo\crud\backend\repository\BookRepository.class
+com\demo\crud\backend\controllers\BookController.class
+com\demo\crud\backend\service\BookService.class
